@@ -9,7 +9,7 @@ Browser extensions need to be installed first: Chrome Web Store / Firefox Add-on
 
 Chrome uBlacklist plug-in, Google search blacklist subscription.
 
-Subscription address: https://raw.githubusercontent.com/youzeliang/uBlacklist-Subscription/main/list.txt
+Subscription address: [https://raw.githubusercontent.com/youzeliang/uBlacklist-Subscription/main/list.txt](https://github.com/youzeliang/uBlacklist-Subscription/blob/main/list.txt)
 
 uBlacklist
 
@@ -19,4 +19,4 @@ uBlacklist
 
 Chrome uBlacklist 插件，谷歌搜索黑名单列表订阅。
 
-订阅地址： https://raw.githubusercontent.com/youzeliang/uBlacklist-Subscription/main/list.txt
+订阅地址：[ https://raw.githubusercontent.com/youzeliang/uBlacklist-Subscription/main/list.txt](https://github.com/youzeliang/uBlacklist-Subscription/blob/main/list.txt)https://github.com/youzeliang/uBlacklist-Subscription/blob/main/list.txt
