@@ -19,4 +19,4 @@ uBlacklist
 
 Chrome uBlacklist 插件，谷歌搜索黑名单列表订阅。
 
-订阅地址：[ https://raw.githubusercontent.com/youzeliang/uBlacklist-Subscription/main/list.txt](https://github.com/youzeliang/uBlacklist-Subscription/blob/main/list.txt)https://github.com/youzeliang/uBlacklist-Subscription/blob/main/list.txt
+订阅地址：[https://raw.githubusercontent.com/youzeliang/uBlacklist-Subscription/main/list.txt](https://github.com/youzeliang/uBlacklist-Subscription/blob/main/list.txt)
