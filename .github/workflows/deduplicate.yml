@@ -14,5 +14,4 @@ jobs:
 
     - name: Deduplicate file
       run: |
-        cd ../..
         sed '$!N; /^\(.*\)\n\1$/!P; D' list.txt
