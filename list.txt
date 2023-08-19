@@ -181,3 +181,4 @@ https://www.jianshu.com/p/c4e4c917e68f
 *://*.ghxi.com/*
 *://*.reverso.net/*
 *://*.ihuaben.com/*
+*://*.ihuaben.com/*
