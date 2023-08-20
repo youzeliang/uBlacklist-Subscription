@@ -14,5 +14,4 @@ jobs:
 
     - name: Deduplicate file
       run: |
-        awk '!seen[$0]++' list.txt > tmp_list.txt
-        mv tmp_list.txt list.txt
+        python3.7 remove_repeat.py
