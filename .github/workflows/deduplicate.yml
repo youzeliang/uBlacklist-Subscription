@@ -14,4 +14,5 @@ jobs:
 
     - name: Deduplicate file
       run: |
-        sed -i '$!N; /^\(.*\)\n\1$/!P; D' list.txt
+        awk '!seen[$0]++' list.txt > tmp_list.txt
+        mv tmp_list.txt list.txt
