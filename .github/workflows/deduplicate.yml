@@ -14,4 +14,4 @@ jobs:
 
     - name: Deduplicate file
       run: |
-        python3.7 remove_repeat.py
+        python remove_repeat.py
