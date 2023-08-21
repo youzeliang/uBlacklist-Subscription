@@ -1,4 +1,10 @@
 *://*.meimingcha.com/*
+*://*.zhaikangpei.com/*
+*://*.zhliang.net/*
+*://*.zgbbly.com/*
+*://*.oicq88.com/*
+*://*.xingyunba.com/*
+*://*.meimingcha.com/*
 *://www.csdn.net/*
 *://www.csdn.com/*
 *://*.csdn.net/*
