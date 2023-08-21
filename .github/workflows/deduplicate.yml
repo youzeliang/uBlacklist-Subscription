@@ -15,7 +15,7 @@ jobs:
     - name: Deduplicate list
       run: |
         input=$(cat list.txt)
-        output=$(echo "$input" | jq 'unique')
+        output=$(echo "$input" | sed 's/ /\n/g' | sort -u | paste -s -d " ")
         echo "$output" > list.txt
         
         git config --global user.name "youze"
