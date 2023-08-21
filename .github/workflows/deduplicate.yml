@@ -1,9 +1,8 @@
-name: Deduplicate List
+name: Deduplicate List Every Minute
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '*/1 * * * *'
 
 jobs:
   deduplicate:
@@ -12,15 +11,13 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
-          
+      
     - name: Deduplicate list
       run: |
         input=$(cat list.txt)
         output=$(echo "$input" | jq 'unique')
         echo "$output" > list.txt
         
-    - name: Commit and push changes
-      run: |
         git config --global user.name "youze"
         git config --global user.email "youzel@126.com"
         git commit -am "Deduplicate list"
