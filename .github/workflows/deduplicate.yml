@@ -1,24 +1,24 @@
-name: Deduplicate List Every Minute
+# name: Deduplicate List Every Minute
 
-on:
-  schedule:
-    - cron: '*/1 * * * *'
+# on:
+#   schedule:
+#     - cron: '*/1 * * * *'
 
-jobs:
-  deduplicate:
-    runs-on: ubuntu-latest
+# jobs:
+#   deduplicate:
+#     runs-on: ubuntu-latest
     
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+#     steps:
+#     - name: Checkout repository
+#       uses: actions/checkout@v2
       
-    - name: Deduplicate list
-      run: |
-        input=$(cat list.txt)
-        output=$(echo "$input" | sed 's/ /\n/g' | sort -u | paste -s -d " ")
-        echo "$output" > list.txt
+#     - name: Deduplicate list
+#       run: |
+#         input=$(cat list.txt)
+#         output=$(echo "$input" | sed 's/ /\n/g' | sort -u | paste -s -d " ")
+#         echo "$output" > list.txt
         
-        git config --global user.name "youze"
-        git config --global user.email "youzel@126.com"
-        git commit -am "Deduplicate list"
-        git push
+#         git config --global user.name "youze"
+#         git config --global user.email "youzel@126.com"
+#         git commit -am "Deduplicate list"
+#         git push
