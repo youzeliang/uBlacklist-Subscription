@@ -2,6 +2,11 @@
 *://*.linecorp.com/*
 *://*.yeweiyangxs.com/*
 *://*.tech-girlz.com/*
+*://m.downcc.com/*
+*://*.tistory.com/*
+*://*.linecorp.com/*
+*://*.yeweiyangxs.com/*
+*://*.tech-girlz.com/*
 *://*.meimingcha.com/*
 *://*.zhaikangpei.com/*
 *://*.zhliang.net/*
