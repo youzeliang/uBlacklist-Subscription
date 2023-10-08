@@ -1,3 +1,6 @@
+*://*.liberatedwomansummit.com/*
+*://*.209.103/*
+*://*.min.news/*
 https://www.jianshu.com/p/778ffa2ab881
 https://heapdump.cn/article/3854095
 *://*.yidiandianzw.com/*
