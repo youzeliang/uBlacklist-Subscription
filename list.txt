@@ -1,3 +1,10 @@
+*://*.linguee.com/*
+*://*.6azw.com/*
+*://*.sx110.com/*
+*://*.wuqingxs.com/*
+*://*.fengninxs.com/*
+*://*.jingmoxs.com/*
+*://*.task88.com/*
 *://*.liberatedwomansummit.com/*
 *://*.209.103/*
 *://*.min.news/*
