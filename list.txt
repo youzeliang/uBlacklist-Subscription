@@ -1,3 +1,5 @@
+*://*.gale.com/*
+*://*.cangguyan.com/*
 *://*.linguee.com/*
 *://*.6azw.com/*
 *://*.sx110.com/*
