@@ -1,3 +1,4 @@
+*://*.biquka2.com/*
 *://*.gale.com/*
 *://*.cangguyan.com/*
 *://*.linguee.com/*
