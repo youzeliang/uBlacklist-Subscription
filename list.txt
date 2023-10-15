@@ -1,3 +1,6 @@
+*://*.xxbiqiuge.com/*
+*://*.suguangxs.com/*
+*://*.floorcommunity.com/*
 *://*.biquka2.com/*
 *://*.gale.com/*
 *://*.cangguyan.com/*
