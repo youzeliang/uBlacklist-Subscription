@@ -1,3 +1,4 @@
+*://*.xs5200.co/*
 *://*.xxbiqiuge.com/*
 *://*.suguangxs.com/*
 *://*.floorcommunity.com/*
