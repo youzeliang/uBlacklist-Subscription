@@ -1,3 +1,4 @@
+*://*.sevenact.com/*
 *://*.shuyele.com/*
 *://*.qiming360.com/*
 *://*.xs5200.co/*
