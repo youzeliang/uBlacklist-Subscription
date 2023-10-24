@@ -1,3 +1,4 @@
+*://*.bcinfonet.com/*
 *://*.sevenact.com/*
 *://*.xinremenxs.com/*
 *://*.lewenlook.com/*
