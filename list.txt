@@ -1,4 +1,7 @@
 *://*.bcinfonet.com/*
+*://*.biqubao2.com/*
+*://*.kgkh.com.cn/*
+*://*.bcinfonet.com/*
 *://*.sevenact.com/*
 *://*.xinremenxs.com/*
 *://*.lewenlook.com/*
