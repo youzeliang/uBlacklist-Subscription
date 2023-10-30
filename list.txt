@@ -1,3 +1,4 @@
+*://*.eexiaoshuo.co/*
 *://*.bcinfonet.com/*
 *://*.biqubao2.com/*
 *://*.kgkh.com.cn/*
