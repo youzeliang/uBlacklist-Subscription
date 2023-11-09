@@ -1,3 +1,5 @@
+*://*.huomiee.com/*
+*://*.php.cn/*
 *://*.eexiaoshuo.co/*
 *://*.bcinfonet.com/*
 *://*.biqubao2.com/*
@@ -76,7 +78,6 @@ https://heapdump.cn/article/3854095
 *://www.csdn.net/*
 *://www.csdn.com/*
 *://*.csdn.net/*
-*://*.baidu.com/*
 *://*.eolink.com/*
 *://*.ithome.com.tw/*
 https://www.jianshu.com/p/d97b095cd98a
@@ -93,7 +94,6 @@ https://www.jianshu.com/p/c4e4c917e68f
 *://*.82ky.com/*
 *://*.751314.com/*
 *://*.cqyti.com/*
-*://*.qq.com/*
 *://*.nbeastrisen.com/*
 *://*.zirushu.com/*
 *://*.fengyundianzw.com/*
