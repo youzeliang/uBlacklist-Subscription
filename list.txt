@@ -1,7 +1,5 @@
 *://*.liubai.org/*
-*://*.apple.com/*
 *://*.cckka.cn/*
-*://*.google.com/*
 *://*.9yread.com/*
 *://*.mbvka.cn/*
 *://*.acdbook.top/*
@@ -11,7 +9,6 @@
 *://*.eayue.com/*
 *://*.haoyadacom.com/*
 *://*.yanyulouxs.com/*
-*://*.baidu.com/*
 *://*.marxists.org/*
 *://*.shuqi.com/*
 *://*.bsxiaoshuo.com/*
