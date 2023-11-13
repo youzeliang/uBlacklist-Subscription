@@ -1,3 +1,14 @@
+*://*.liubai.org/*
+*://*.apple.com/*
+*://*.cckka.cn/*
+*://*.google.com/*
+*://*.9yread.com/*
+*://*.mbvka.cn/*
+*://*.acdbook.top/*
+*://*.hcreads.cn/*
+*://*.fsfgt.cn/*
+*://*.nuozhan.cn/*
+*://*.eayue.com/*
 *://*.haoyadacom.com/*
 *://*.yanyulouxs.com/*
 *://*.baidu.com/*
