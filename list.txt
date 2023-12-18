@@ -1,3 +1,13 @@
+*://*.baby0796.com/*
+*://*.taomingba.com/*
+*://*.bathroomaccessoriessingapore.com/*
+*://*.circuitbarn.com/*
+*://*.hebeiyuanhao.com/*
+*://*.fengcaikj.com/*
+*://*.yueduban.com/*
+*://*.junjianint.com/*
+*://*.17-81.dance/*
+^https?://.*\.\d{3,}\..*$
 *://*.hcp132.com/*
 *://*.kuaisugg2.com/*
 *://*.23hh.co/*
