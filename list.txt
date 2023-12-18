@@ -83,7 +83,6 @@
 *://*.tiantianqiming.com/*
 *://*.zhongyunqiming.com/*
 *://*.sheup.net/*
-/.*\d{2,}.*/i
 *://*.taomingba.com/*
 *://*.bathroomaccessoriessingapore.com/*
 *://*.circuitbarn.com/*
