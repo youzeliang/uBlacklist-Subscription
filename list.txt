@@ -7,7 +7,7 @@
 *://*.yueduban.com/*
 *://*.junjianint.com/*
 *://*.17-81.dance/*
-^https?://.*\.\d{3,}\..*$
+^https?://.*\.\d{2,}\..*$
 *://*.hcp132.com/*
 *://*.kuaisugg2.com/*
 *://*.23hh.co/*
