@@ -130,7 +130,6 @@
 *://*.cyol.com/*
 *://*.cnd.org/*
 *://*.ctee.com.tw/*
-*://*.google.com/*
 *://*.singtaousa.com/*
 *://*.taisounds.com/*
 *://*.epochtimes.com/*
@@ -379,7 +378,6 @@
 *://*.youxiniao.com/*
 *://*.kukupao.com.cn/*
 *://*.shicimingju.com/*
-*://*.google.co.kr/*
 *://*.liqucn.com/*
 *://*.siemens-home.cn/*
 *://*.cuisiliu.net/*
