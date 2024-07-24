@@ -427,8 +427,6 @@ https://blog.haohtml.com/archives/32148
 *://*.famic.go.jp/*
 *://*.mhlw.go.jp/*
 *://*.titech.ac.jp/*
-*://*.android.com/*
-*://*.microsoft.com/*
 *://*.speakerdeck.com/*
 *://*.hatenablog.com/*
 *://*.cybozu.io/*
