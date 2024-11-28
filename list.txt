@@ -1,3 +1,11 @@
+*://*.dingdian666.com/*
+*://*.97books.cc/*
+*://*.jingainian.com/*
+*://*.lninfo.com.cn/*
+*://*.sefon.com.cn/*
+*://*.ailexiaoshuo.com/*
+*://*.xingkonglm.com/*
+*://*.jxgwyw.org/*
 *://*.quanben.cc/*
 *://*.keleshuba.net/*
 *://*.52dus.cc/*
