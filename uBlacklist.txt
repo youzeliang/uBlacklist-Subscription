@@ -13,3 +13,7 @@
 *://*.len.tv/*
 *://*.google.com/*
 *://*.kuai8.com/*
+*://*.csdn.net/*
+*://*.yw11.com/*
+*://*.hrbzy.edu.cn/*
+*://*.taomingba.com/*
