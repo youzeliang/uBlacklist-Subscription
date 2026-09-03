@@ -1,1 +1,15 @@
-baidu.com
+*://*.suanrizi.cn/*
+*://*.ycpcms.com/*
+*://*.golfworldandmore.com/*
+*://*.poyan.edu.hk/*
+*://*.grcbank.com/*
+*://*.wise.com/*
+*://*.cnyes.com/*
+*://*.f-fans.vip/*
+*://*.dotmu.net/*
+*://*.80s.so/*
+*://*.wandoujia.com/*
+*://*.9k9k.com/*
+*://*.len.tv/*
+*://*.google.com/*
+*://*.kuai8.com/*
